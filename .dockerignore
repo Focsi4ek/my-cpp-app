@@ -1,0 +1,9 @@
+build/
+.git/
+.github/
+.gitignore
+.dockerignore
+*.md
+*.log
+Dockerfile
+tests/
